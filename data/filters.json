@@ -1,0 +1,12 @@
+{
+  "'airlineName'" :{
+    "'airlineName'":"'Northwest Territories'",
+    "type"       : "str",
+    "operation"  : "=="
+      },
+  "'time'":{
+    "'time'":"10000",
+    "type"       : "float",
+    "operation"  : "<"
+  }
+}
